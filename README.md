@@ -31,9 +31,9 @@
 My name is <a href="https://github.com/Trifidu"><b>Nick Dziubynskyi</b></a>. Now I am studying frontend development with the aim of finding myself a job in this industry.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am looking for a job in the field of Web Development and for this I have actively immersed myself in the study of front-end
 
-- :seedling:  I’m currently learning React.js.
+- :seedling:  I’m currently learning React.js
 
 - :zap:  I’m looking to collaborate with people who are also passionate about frontend development and working on creative projects
 
