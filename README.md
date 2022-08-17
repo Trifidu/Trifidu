@@ -70,6 +70,7 @@ My name is <a href="https://github.com/Trifidu"><b>Nick Dziubynskyi</b></a>. Now
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trifidu&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trifidu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Trifidu&show_icons=true&theme=dark" alt="assetkad" />
